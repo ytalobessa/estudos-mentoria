@@ -1,4 +1,3 @@
-#<address> 
 É utilizado para informar o contato do autor de um documento/artigo. 
 Geralmente utilizado no <footer> junto a outras informações.
 
