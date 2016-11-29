@@ -5,4 +5,4 @@
 	Boolean(9 < 10); // return true
 	Boolean (10 < 9); // return  false
 
-<p>Achei o exemplo muito simples para usar o Fiddlejs, quando tiver tarefa mais detalhada eu o uso.<p>
+<p>Achei o exemplo muito simples para usar o Fiddlejs, quando tiver tarefa mais detalhada eu o uso.</p>
