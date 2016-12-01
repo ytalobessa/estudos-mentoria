@@ -10,10 +10,6 @@
 
 <p>Com o "pull" é possível puxar as informações que estão no master para o seu repositório local.</p>
 
-
-<p>O que é um commit oficial?</p>
-
-
 <p>Workflow de Git é uma base de Fluxo de Trabalho, onde você pode usa-la adaptando como achar melhor. É uma sequencia de ações que facilitam o trabalho do usuário.</p>
 
 <p>Uma das grandes vantagens é o uso de branch onde é possível trabalhar em um e depois mesclar com o repositório principal.</p>
